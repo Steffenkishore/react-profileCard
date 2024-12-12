@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "//Steffenkishore.github.io/react-profileCard/static/css/main.d5f18140.css",
+    "main.js": "//Steffenkishore.github.io/react-profileCard/static/js/main.e568a879.js",
+    "static/js/453.b418f484.chunk.js": "//Steffenkishore.github.io/react-profileCard/static/js/453.b418f484.chunk.js",
+    "index.html": "//Steffenkishore.github.io/react-profileCard/index.html",
+    "main.d5f18140.css.map": "//Steffenkishore.github.io/react-profileCard/static/css/main.d5f18140.css.map",
+    "main.e568a879.js.map": "//Steffenkishore.github.io/react-profileCard/static/js/main.e568a879.js.map",
+    "453.b418f484.chunk.js.map": "//Steffenkishore.github.io/react-profileCard/static/js/453.b418f484.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5f18140.css",
+    "static/js/main.e568a879.js"
+  ]
+}
